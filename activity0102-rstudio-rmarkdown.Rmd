@@ -15,14 +15,11 @@ library(datasauRus)
 
 ### Exercise 1
 
-(Type your answer to Exercise 1 here. This exercise does not require any R code.)
 A data frame with 1846 rows and 3 columns. The 3 variables are *dataset*, *x*, and *y*.
 
 
 
 ### Exercise 2
-
-(The answers for this Exercise are given for you below. But you should clean up some of the narrative so that it only includes what you want to turn in.)
 
 First let's plot the data in the dino dataset:
 
