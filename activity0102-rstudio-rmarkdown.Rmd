@@ -6,6 +6,8 @@ output:
   html_document: 
     fig_height: 6
     fig_width: 6
+    highlight: zenburn
+    theme: spacelab
 ---
 
 ### Load packages
